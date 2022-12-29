@@ -5,3 +5,15 @@ The lung is the main functional organ of our human, and lung cancer is mainly di
 ## Methods
    * Datasets：CCLE
    * Visualization：Depmap
+## Group member
+Liu Xuefei, Wang Jianhui, Zhao Keyu, Ying Qianqian, Li Yifan, Zhang Wenjie
+## Dataset
+You can download from BB or email me.
+## Result
+1. Non-metastatic cell lines upregulate the NF-kb pathway, which is regulated by IRF2
+
+2. ZFPM2 mutation affects HSD17B1 expression and thus regulates steroid synthesis pathway in the metastatic group
+## Reference
+1. Jin, X., Demere, Z., Nair, K., Ali, A., Ferraro, G. B., Natoli, T., Deik, A., Petronio, L., Tang, A. A., Zhu, C., Wang, L., Rosenberg, D., Mangena, V., Roth, J., Chung, K., Jain, R. K., Clish, C. B., Vander Heiden, M. G., & Golub, T. R. (2020). A metastasis map of human cancer cell lines. Nature, 588(7837), 331–336. 
+
+2. Chae M, Kim K, Park S M, et al. IRF-2 regulates NF-κB activity by modulating the subcellular localization of NF-κB[J]. Biochemical and biophysical research communications, 2008, 370(3): 519-524.
